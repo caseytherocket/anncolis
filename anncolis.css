@@ -1,0 +1,66 @@
+html, body, .container {
+	height: 100%;
+}
+
+.row {
+    height: 100%;
+    display: table-row;
+}
+
+
+.container {
+    display: table;
+    width: 100%;
+    padding: 50px 0 0 0; /*set left/right padding according to needs*/
+    box-sizing: border-box;
+}
+
+.full-height {
+	height: 100vh;
+	min-height: 600px;
+	max-height: 760px;
+}
+
+.white-bg {
+	background-color: #ffffff;
+
+}
+
+#img {
+	max-height: 680px;
+	width: auto;
+	float: right;
+	position: relative;
+}
+
+.imgcol {
+	float: right;
+	}
+
+
+.pfont {
+	font-family: 'Dancing Script', cursive;
+	height: 100%;
+	max-width: 700px
+}
+
+.pfont p {
+	font-size: 85px; 
+	padding-left: 20px;
+	padding-top: 60px; 
+	color: #4A4A4A;
+
+}
+
+
+.pfont p2 {
+	font-size: 25px;
+	font-family: 'Dancing Script', cursive;
+	padding-left: 20px;
+	color: #4A4A4A;
+	margin-top: -20px;
+}
+
+.divider {
+	padding-left: 20px;
+}
