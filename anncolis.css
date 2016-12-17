@@ -36,9 +36,9 @@ html, body, .container {
 
 
 .font h2 {
-	font-size: 25px;
 	font-family: 'Dancing Script', cursive;
-  padding: 30px 10px;
+	font-size: 25px;
+  	padding: 30px 10px;
 	color: #4A4A4A;
 }
 
