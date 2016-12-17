@@ -13,26 +13,21 @@ html, body, .container {
 
 }
 
-<<<<<<< HEAD
-
 .white-bg {
 	background-color: #ffffff;
 
 }
 
-=======
->>>>>>> d91fe57478c2696d1a1cd30df98f68498075bdff
+
 .font {
 	font-family: 'Dancing Script', cursive;
 	float: left;
 }
 
 .font h1 {
-<<<<<<< HEAD
+	font-family: 'Dancing Script', cursive;
 	font-size: 75px;
-=======
 	font-size: 85px;
->>>>>>> d91fe57478c2696d1a1cd30df98f68498075bdff
 	padding-left: 10px;
 	padding-top: 60px;
 	color: #4A4A4A;
