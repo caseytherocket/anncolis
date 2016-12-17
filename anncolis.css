@@ -30,7 +30,7 @@ html, body, .container {
 	max-height: 680px;
 	width: auto;
 	float: right;
-	position: relative;
+
 }
 
 .imgcol {
@@ -41,12 +41,13 @@ html, body, .container {
 .pfont {
 	font-family: 'Dancing Script', cursive;
 	height: 100%;
-	max-width: 700px
+	max-width: 700px;
+	float: left;
 }
 
 .pfont p {
 	font-size: 85px; 
-	padding-left: 20px;
+	padding-left: 10px;
 	padding-top: 60px; 
 	color: #4A4A4A;
 
@@ -56,11 +57,11 @@ html, body, .container {
 .pfont p2 {
 	font-size: 25px;
 	font-family: 'Dancing Script', cursive;
-	padding-left: 20px;
+	padding-left: 10px;
 	color: #4A4A4A;
 	margin-top: -20px;
 }
 
 .divider {
-	padding-left: 20px;
+	padding-left: 10px;
 }
