@@ -9,15 +9,10 @@ html, body, .container {
 	overflow: hidden;
 }
 
-.decrease {
-
-}
-
 .white-bg {
 	background-color: #ffffff;
 
 }
-
 
 .font {
 	font-family: 'Dancing Script', cursive;
@@ -25,9 +20,7 @@ html, body, .container {
 }
 
 .font h1 {
-	font-family: 'Dancing Script', cursive;
 	font-size: 75px;
-	font-size: 85px;
 	padding-left: 10px;
 	padding-top: 60px;
 	color: #4A4A4A;
@@ -36,9 +29,9 @@ html, body, .container {
 
 
 .font h2 {
-	font-family: 'Dancing Script', cursive;
 	font-size: 25px;
-  	padding: 30px 10px;
+	font-family: 'Dancing Script', cursive;
+  padding: 30px 10px;
 	color: #4A4A4A;
 }
 
